@@ -6,6 +6,7 @@ This is the summary of my book.
 	* [Chapter 1 - 开始](Part I - Basics/Chapter 1 - Getting Started.md)
 		* [NIO 总览](Part I - Basics/NIO Overview.md)
 		* [为何使用 MINA](Part I - Basics/Why MINA.md)
+		* [特性](Part I - Basics/Features.md)
  	* [Chapter 2 - Basics 基础](Part I - Basics/Chapter 2 - Basics.md)
  	* [Chapter 3 - Service 服务](Part I - Basics/Chapter 3 - Service.md)
  	* [Chapter 4 - Session 会话](Part I - Basics/Chapter 4 - Session.md)
