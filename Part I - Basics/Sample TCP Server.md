@@ -222,3 +222,5 @@ messageReceived 方法会从客户端接收数据并将当前时间回写给客�
 ## 接下来是什么？
         
 请访问我们的文档页面以查找更多资源。当然你也可以继续去阅读其他教程。
+
+*译者注：翻译版本的项目源码见 <https://github.com/waylau/apache-mina-2-user-guide-demos> 中的`com.waylau.mina.demo.time`包下*
