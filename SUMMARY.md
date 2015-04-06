@@ -32,8 +32,8 @@ This is the summary of my book.
 * Part II - MINA Core 核心
 	* [Chapter 8 - IoBuffer](Part II - MINA Core/Chapter 8 - IoBuffer.md) 
 	* [Chapter 9 - 编解码器过滤器](Part II - MINA Core/Chapter 9 - Codec Filter.md) 
-	* [Chapter 10 - Executor Filter](Part II - MINA Core/Chapter 10 - Executor Filter.md) 
-	* [Chapter 11 - SSL Filter](Part II - MINA Core/Chapter 11 - SSL Filter.md) 
+	* [Chapter 10 - Executor 过滤器](Part II - MINA Core/Chapter 10 - Executor Filter.md) 
+	* [Chapter 11 - SSL 过滤器](Part II - MINA Core/Chapter 11 - SSL Filter.md) 
 	* [Chapter 12 - 日志过滤器](Part II - MINA Core/Chapter 12 - Logging Filter.md) 
 * Part III - MINA Advanced 高级
 	* [Chapter 13 - Debugging 调试](Part III - MINA Advanced/Chapter 13 - Debugging.md) 
