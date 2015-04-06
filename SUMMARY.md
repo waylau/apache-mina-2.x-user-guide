@@ -31,7 +31,7 @@ This is the summary of my book.
  	* [Chapter 7 - Handler (处理器)](Part I - Basics/Chapter 7 - Handler.md)
 * Part II - MINA Core 核心
 	* [Chapter 8 - IoBuffer](Part II - MINA Core/Chapter 8 - IoBuffer.md) 
-	* [Chapter 9 - Codec Filter](Part II - MINA Core/Chapter 9 - Codec Filter.md) 
+	* [Chapter 9 - 编解码器过滤器](Part II - MINA Core/Chapter 9 - Codec Filter.md) 
 	* [Chapter 10 - Executor Filter](Part II - MINA Core/Chapter 10 - Executor Filter.md) 
 	* [Chapter 11 - SSL Filter](Part II - MINA Core/Chapter 11 - SSL Filter.md) 
 	* [Chapter 12 - 日志过滤器](Part II - MINA Core/Chapter 12 - Logging Filter.md) 
