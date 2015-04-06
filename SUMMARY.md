@@ -36,8 +36,8 @@ This is the summary of my book.
 	* [Chapter 11 - SSL 过滤器](Part II - MINA Core/Chapter 11 - SSL Filter.md) 
 	* [Chapter 12 - 日志过滤器](Part II - MINA Core/Chapter 12 - Logging Filter.md) 
 * Part III - MINA Advanced 高级
-	* [Chapter 13 - Debugging 调试](Part III - MINA Advanced/Chapter 13 - Debugging.md) 
-	* [Chapter 14 - State Machine 状态机](Part III - MINA Advanced/Chapter 14 - State Machine.md) 
+	* [Chapter 13 - 调试](Part III - MINA Advanced/Chapter 13 - Debugging.md) 
+	* [Chapter 14 - State Machine (状态机)](Part III - MINA Advanced/Chapter 14 - State Machine.md) 
 	* [Chapter 15 - Proxy 代理](Part III - MINA Advanced/Chapter 15 - Proxy.md) 
 	* [Chapter 16 - JMX Integration 与 JMX 集成](Part III - MINA Advanced/Chapter 16 - JMX Integration.md) 
 	* [Chapter 17 - Spring Integration 与 Spring 集成](Part III - MINA Advanced/Chapter 17 - Spring Integration.md) 
