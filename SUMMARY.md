@@ -38,6 +38,6 @@ This is the summary of my book.
 * Part III - MINA Advanced 高级
 	* [Chapter 13 - 调试](Part III - MINA Advanced/Chapter 13 - Debugging.md) 
 	* [Chapter 14 - State Machine (状态机)](Part III - MINA Advanced/Chapter 14 - State Machine.md) 
-	* [Chapter 15 - Proxy 代理](Part III - MINA Advanced/Chapter 15 - Proxy.md) 
-	* [Chapter 16 - JMX Integration 与 JMX 集成](Part III - MINA Advanced/Chapter 16 - JMX Integration.md) 
-	* [Chapter 17 - Spring Integration 与 Spring 集成](Part III - MINA Advanced/Chapter 17 - Spring Integration.md) 
+	* [Chapter 15 - 代理](Part III - MINA Advanced/Chapter 15 - Proxy.md) 
+	* [Chapter 16 - JMX 集成](Part III - MINA Advanced/Chapter 16 - JMX Integration.md) 
+	* [Chapter 17 - Spring 集成](Part III - MINA Advanced/Chapter 17 - Spring Integration.md) 
