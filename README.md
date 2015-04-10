@@ -4,8 +4,8 @@ Apache MINA User Guide 中文翻译《Apache MINA 2 用户指南》
 ![logo](http://99btgc01.info/uploads/2015/02/mina.jpg)
 
 Chinese translation of the Apache MINA User Guide (http://mina.apache.org/mina-project/userguide/user-guide-toc.html). 
-The laset version of Apache MINA is 2.x. This is also a GitBook version of the book: <http://waylau.gitbooks.io/apache-mina-2-user-guide>.
-Let's [go](SUMMARY.md)!
+The laset version of Apache MINA is 2.x. There is also a GitBook version of the book: <http://waylau.gitbooks.io/apache-mina-2-user-guide>.
+Let's [READ](SUMMARY.md)!
 
 《Apache MINA 2 用户指南》中文翻译。至今为止，Apache MINA 的最新版本为 2.0.9(2014-10-22)。文本用到的所有例子源码可以在<https://github.com/waylau/apache-mina-2-user-guide-demos> 获取到。另外有 GitBook 的版本方便阅读
 <http://waylau.gitbooks.io/apache-mina-2-user-guide>。此外与 MINA 类似的 NIO 框架还有 Netty,可参阅《[Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide/)》 和 《[Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)》。
