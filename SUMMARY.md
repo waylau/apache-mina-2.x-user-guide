@@ -41,3 +41,6 @@ This is the summary of my book.
 	* [Chapter 15 - 代理](Part III - MINA Advanced/Chapter 15 - Proxy.md) 
 	* [Chapter 16 - JMX 集成](Part III - MINA Advanced/Chapter 16 - JMX Integration.md) 
 	* [Chapter 17 - Spring 集成](Part III - MINA Advanced/Chapter 17 - Spring Integration.md) 
+* 其他
+	* [MINA 快速入门](http://www.waylau.com/mina-quick-start/)
+	* [MINA 实现聊天功能](http://www.waylau.com/mina-chat/)
