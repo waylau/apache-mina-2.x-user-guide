@@ -17,7 +17,6 @@ Let's [READ](SUMMARY.md)!
 
 * <https://github.com/waylau/apache-mina-2.x-user-guide> 的 [SUMMARY.md](SUMMARY.md)（源码）
 * <http://waylau.gitbooks.io/apache-mina-2-user-guide> 点击 Read 按钮（同步更新，国内访问速度一般）
-* <http://waylau.com/apache-mina-2.x-user-guide/>（国内访问速度快，定期更新。最后更新于 2016-2-16）
 
 ### Code 源码
 
