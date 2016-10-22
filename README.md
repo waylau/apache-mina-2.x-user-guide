@@ -24,7 +24,7 @@ Let's [READ](SUMMARY.md)!
 
 ### Issue 意见、建议
 
-如有勘误、意见或建议欢迎拍砖 <https://github.com/waylau/apache-mina-2.x-user-guide/issues>
+如有勘误、意见或建议，也可以在这里直接拍砖-> <https://github.com/waylau/apache-mina-2.x-user-guide/issues>
 
 ### Contact 联系作者:
 
